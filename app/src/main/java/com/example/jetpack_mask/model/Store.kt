@@ -1,6 +1,6 @@
 package com.example.jetpack_mask.model
 
-class Store(
+data  class Store(
     var addr: String,
     var code: String,
     var created_at: String,
